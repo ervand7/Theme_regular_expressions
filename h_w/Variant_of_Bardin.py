@@ -122,4 +122,4 @@ class ContactNormalizer:
 
 
 if __name__ == '__main__':
-    ContactNormalizer('../../../../netology_http_10/phonebookraw.csv').start_parse()
+    ContactNormalizer('phonebook_raw.csv').start_parse()
